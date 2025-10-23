@@ -7,8 +7,8 @@
 
 <div align="center">
 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=k1siv&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1siv&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2)
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=8A2BE2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1siv&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=8A2BE2)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ТВОЙ_USERNAME&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1siv&theme=radical)
 
 </div>
 
@@ -67,6 +67,6 @@
 
 ### 💜 Спасибо что заглянули в мой профиль!
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ТВОЙ_USERNAME&color=8A2BE2&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=k1siv&color=8A2BE2&style=for-the-badge)
 
 </div>
