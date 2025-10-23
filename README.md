@@ -1,8 +1,8 @@
-<h1 align="center">👋 Привет, я Данила</h1>
-<h3 align="center">🚀 16-летний FullStack разработчик из Новосибирска</h3>
+<h1 align="center">👋 Hi, I'm Danila</h1>
+<h3 align="center">🚀 16-year-old FullStack Developer from Novosibirsk</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=BackEnd+%2B+FrontEnd+разработчик;Люблю+создавать+крутые+штуки;Постоянно+учу+новые+технологии" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=BackEnd+%2B+FrontEnd+Developer;Love+creating+cool+stuff;Constantly+learning+new+technologies" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -12,9 +12,9 @@
 
 </div>
 
-## 🛠 Мой стек технологий
+## 🛠 My Tech Stack
 
-### **💻 Языки программирования:**
+### **💻 Programming Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,23 +25,23 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### **🌐 Фреймворки и библиотеки:**
+### **🌐 Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### **🐳 Технологии:**
+### **🐳 Technologies:**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
-### **🗄 Базы данных:**
+### **🗄 Databases:**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 Статистика языков
+## 📊 Language Stats
 
 <div align="center">
 
@@ -49,11 +49,11 @@
 
 </div>
 
-## 📫 Как со мной связаться
+## 📫 How to reach me
 - **Telegram**: [@k1siv](https://t.me/k1siv)
 - **Email**: k1siv@gmail.com
 
-## 🎯 Активность
+## 🎯 Activity
 
 <div align="center">
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-### 💜 Спасибо что заглянули в мой профиль!
+### 💜 Thanks for visiting my profile!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=k1siv&color=8A2BE2&style=for-the-badge)
 
