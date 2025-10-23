@@ -53,6 +53,10 @@
 - **Telegram**: [@k1siv](https://t.me/k1siv)
 - **Email**: contact@k1siv.ru
 
+## 💟 Dock Cat
+
+- **Telegram**: [DockCat](https://t.me/DockCat)
+
 ## 🎯 Activity
 
 <div align="center">
