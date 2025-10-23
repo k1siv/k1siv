@@ -51,7 +51,7 @@
 
 ## 📫 How to reach me
 - **Telegram**: [@k1siv](https://t.me/k1siv)
-- **Email**: k1siv@gmail.com
+- **Email**: contact@k1siv.ru
 
 ## 🎯 Activity
 
