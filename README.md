@@ -49,7 +49,7 @@
 
 </div>
 
-## 📫 How to reach me
+## 📫 How to contact me
 - **Telegram**: [@k1siv](https://t.me/k1siv)
 - **Email**: contact@k1siv.ru
 
