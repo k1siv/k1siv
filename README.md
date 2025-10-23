@@ -89,31 +89,6 @@ https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?use
 https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k1siv&theme=radical
 
 </div>
-🌟 Избранные проекты
-<div align="center"> <!-- ЗАМЕНИ ЭТИ ССЫЛКИ НА СВОИ РЕАЛЬНЫЕ ПРОЕКТЫ -->
-<a href="https://github.com/k1siv/? ">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k1siv&repo=? &theme=radical&bg_color=0D1117&title_color=8A2BE2&hide_border=true" />
-</a>
-<a href="https://github.com/k1siv/? ">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=k1siv&repo=? &theme=radical&bg_color=0D1117&title_color=8A2BE2&hide_border=true" />
-</a>
-
-</div>
-📫 Свяжись со мной
-<div align="center">
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117&color=8A2BE2
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=8A2BE2
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=8A2BE2
-https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117&color=8A2BE2
-
-</div>
-<div align="center">
-💜 Спасибо за визит на мой профиль!
-https://komarev.com/ghpvc/?username=k1siv&color=8A2BE2&style=for-the-badge&label=%D0%9F%D0%A0%D0%9E%D0%A1%D0%9C%D0%9E%D0%A2%D0%A0%D0%AB+%D0%9F%D0%A0%D0%9E%D0%A4%D0%98%D0%9B%D0%AF
-
-"Код — это поэзия, а алгоритмы — музыка цифрового мира"
-
-</div> ```
 
 
 ## 📈 Архитектура проектов
