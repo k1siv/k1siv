@@ -1,121 +1,76 @@
-# <p align="center">👋 Привет, я **Danila**</p>
+<h1 align="center">👋 Hi, I'm Danila</h1>
+<h3 align="center">🚀 16-year-old FullStack Developer from Novosibirsk</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=8A2BE2&center=true&vCenter=true&width=720&lines=16-year-old+FullStack+Developer;BackEnd+%2B+FrontEnd;Love+creating+cool+stuff;Constantly+learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=BackEnd+%2B+FrontEnd+Developer;Love+creating+cool+stuff;Constantly+learning+new+technologies" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="#about-me"><img alt="Top language" src="https://img.shields.io/badge/Top%20Langs-Python%2CJS%2CTS-blueviolet?style=for-the-badge&logo=github"/></a>
-  <a href="#tech-stack"><img alt="Stack" src="https://img.shields.io/badge/Stack-FullStack-brightgreen?style=for-the-badge"/></a>
-  <a href="#contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-Telegram%20%40k1siv-8A2BE2?style=for-the-badge"/></a>
-</p>
-
----
-
-## ✨ Обо мне
-
-> 🚀 **Danila** — 16 лет, FullStack разработчик из Новосибирска. Люблю сочетать бэкенд и фронтенд, делаю проекты с красивым UI и аккуратной архитектурой.
-
-* 🔭 Сейчас работаю над: **личным портфолио**, *pet* проектами и автоматизацией.
-* 🌱 Постоянно учу: **TypeScript, Go, advanced React & backend design**.
-* ⚡ Люблю: чистый код, UI/UX и анимации.
-
----
-
-## 🎞 Анимированный превью
-
-<p align="center">
-  <!-- Демонстрация — замените на GIF ваших проектов -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="demo gif" width="720"/>
-</p>
-
----
-
-## 🛠 Tech Stack — красиво и анимировано
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=k1siv&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1siv&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2)
 
 </div>
 
-> Каждый значок — это отдельная подпись. Если хочешь, могу добавить всплывающие подсказки (via HTML) или анимированные SVG-иконки.
+## 🛠 My Tech Stack
 
----
+### **💻 Programming Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-## 🧩 Projects (с анимациями и GIF)
+### **🌐 Frameworks & Libraries:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 1) **CoolApp** — fullstack demo
+### **🐳 Technologies:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
-* Tech: React, TypeScript, Go, PostgreSQL
-* Что делает: realtime доска задач + WebSockets
-* Превью:
+### **🗄 Databases:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsl0R6nQJkQ8m7y/giphy.gif" alt="CoolApp demo" width="640"/>
-</p>
-
-### 2) **API-Service** — backend сервис
-
-* Tech: Spring Boot / Docker / Cassandra
-* Функция: масштабируемое API для статистики
-
----
-
-## 📊 Статистика GitHub (живые виджеты)
+## 📊 Language Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k1siv\&theme=radical\&hide_border=true\&background=0D1117\&stroke=8A2BE2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1siv&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=8A2BE2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k1siv\&layout=compact\&theme=radical\&bg_color=0D1117\&hide_border=true\&title_color=8A2BE2)
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1siv\&show_icons=true\&theme=radical\&bg_color=0D1117\&hide_border=true\&icon_color=8A2BE2\&title_color=8A2BE2)
+## 📫 How to contact me
+- **Telegram**: [@k1siv](https://t.me/k1siv)
+- **Email**: contact@k1siv.ru
+
+## 💟 Dock Cat
+
+- **Telegram**: [DockCat](https://t.me/DockCat)
+
+## 🎯 Activity
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=k1siv&theme=radical)
 
 </div>
 
 ---
 
-## 🔭 Activity & Contributions
+<div align="center">
 
-<p align="center">
-  <!-- Activity graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=k1siv&theme=react-dark&area=true" alt="Contribution graph" width="100%"/>
-</p>
+### 💜 Thanks for visiting my profile!
 
----
+![Visitor Count](https://komarev.com/ghpvc/?username=k1siv&color=8A2BE2&style=for-the-badge)
 
-## 📫 Контакты
-
-* **Telegram**: [@k1siv](https://t.me/k1siv)
-* **Email**: [contact@k1siv.ru](mailto:contact@k1siv.ru)
-* **Telegram bot / other**: [DockCat](https://t.me/DockCat)
-
----
-
-## 💡 Идеи для ещё большей красоты (хочешь — сделаю):
-
-* Анимированная SVG-волна внизу (wave + gradient).
-* Небольшие Lottie-анимации для секций (нужен хостинг или встроенные ссылки).
-* GIF-превью для каждого проекта (краткие 4-8s loop).
-* Hover-эффекты и кнопки с градиентами (HTML вставки в README).
-* Темная/светлая версия README (через media queries в SVG).
-
----
-
-<p align="center">
-  <a href="#">Made with ❤️ and a lot of code</a>
-</p>
-
-<!-- Footer: плавная волна (можно заменить на более сложную SVG-анимацию) -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Naereen/badges/master/wave.svg" alt="wave" width="100%" />
-</p>
-
-<!--
-Примечание: чтобы заменить GIF/превью на реальные скрины твоих проектов — просто дай ссылки на GIF или загрузи их в репозиторий и я обновлю README.
--->
+</div>
