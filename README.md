@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированный хедер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Danila%20Krivoshey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Данила%20Кислов&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Анимированный текст -->
 <h2>
@@ -23,6 +23,19 @@
   ![GitHub Snake Dark](https://github.com/k1siv/k1siv/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </div>
+
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/C%2523-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0D1117&color=8A2BE2
+https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117&color=8A2BE2
 
 </div>
 
