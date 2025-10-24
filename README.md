@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Анимированный хедер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Данила%20Кислов&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=Danila%20Krivoshey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <!-- Анимированный текст -->
 <h2>
